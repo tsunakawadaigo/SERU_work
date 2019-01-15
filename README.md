@@ -8,4 +8,4 @@
 #### 5.端末をもう2つ用意します
 #### 6.それぞれに"roscore &","rosrun SERU_work SERU_talker","rosrun SERU_work SERU_listener"と入力します
 #### 7.rosrun SERU_work SERU_talkerと入力した端末に表示される文字がそのまま
-####   rosrun SERU_work SERU_listenerと入力した端末に送られます
+####    rosrun SERU_work SERU_listenerと入力した端末に送られます
